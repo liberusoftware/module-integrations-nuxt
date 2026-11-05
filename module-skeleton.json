@@ -1,0 +1,25 @@
+{
+  "repository": "module-integrations-nuxt",
+  "capabilityKey": "liberusoftware/integrations",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-integrations-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/boilerplate/nextjs/integrations.md",
+  "presentationPlan": "projects/boilerplate/nuxt/integrations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
